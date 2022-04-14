@@ -31446,7 +31446,7 @@ function extend() {
 }
 
 },{}],237:[function(require,module,exports){
-const Buffer = require('buffer'); 
+const Buffer = require('buffer').Buffer; 
 const minio = require('minio');
 window.minio || (window.minio = minio)
 window.Buffer || (window.Buffer = Buffer)

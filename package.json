@@ -1,6 +1,6 @@
 {
   "name": "kn-blog-minio-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Customed minio sdk for kn-blog, export Buffer &amp; minio.",
   "main": "index.js",
   "scripts": {},
