@@ -1,7 +1,7 @@
 {
   "name": "kn-blog-minio-sdk",
-  "version": "0.0.2",
-  "description": "Customed minio sdk for kn-blog, export Buffer &amp; minio.",
+  "version": "0.0.3",
+  "description": "Customed minio sdk for kn-blog, export AssumeRoleProvider &amp; minio.",
   "main": "index.js",
   "scripts": {},
   "repository": {
